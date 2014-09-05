@@ -11,3 +11,10 @@ Edit the `urls.json` file. Add a property with the name of the URL slug you want
 ```
 
 Note that style-wise, this file uses comma-first notation. This is to make it easier to add new lines without having to modify existing lines.
+
+## server stuff
+It's a node server, so install it with `npm install` and start it with `npm start`.
+
+Make sure to set the following environment variables:
+- `PORT`: the port number to listen on
+- `PRIVACY_SEED`: we hash IP addresses for user privacy, so set this to some secure string
