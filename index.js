@@ -27,7 +27,10 @@ function redirect(res, dest) {
 http
   .createServer(function (req, res) {
     var slug = req.url.toLowerCase()
-    redirect(res, urls[slug] || urls[slug])
+    if (slug[slug.length-1] === '/') {
+      slug = slug.substr(0, slug.length - 1)
+    }
+    redirect(res, urls[slug])
     console.log(JSON.stringify({
       ipHash: getHashedIP(req),
       time: Date.now(),
