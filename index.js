@@ -14,12 +14,17 @@ function getHashedIP(req) {
 
 function redirect(res, dest) {
   if (!dest) {
-    res.statusCode = 404
-    return res.end('not found') // todo: friendlier not found page
+    // res.statusCode = 404
+    // return res.end('not found') // todo: friendlier not found page
+    res.statusCode = 301
+    res.setHeader('location', 'https://www.civicquarterly.com')
+    res.setHeader('Cache-Control', 'public; max-age=900')
+    return res.end()
   }
 
   res.statusCode = 301
   res.setHeader('location', dest)
+  res.setHeader('Cache-Control', 'public; max-age=900')
   return res.end()
 }
 
@@ -30,6 +35,15 @@ http
     if (slug[slug.length-1] === '/') {
       slug = slug.substr(0, slug.length - 1)
     }
+
+    if (!slug) {
+      // ultimately we might want some helpful
+      // disambiguation page, since short urls
+      // are possibly typed by hand and prone to error.
+      // for now, just redirect to default
+      redirect(res)
+    }
+
     redirect(res, urls[slug])
     console.log(JSON.stringify({
       ipHash: getHashedIP(req),

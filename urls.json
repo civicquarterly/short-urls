@@ -1,16 +1,13 @@
 {
-  "/": "https://www.civicquarterly.com",
-  "/subscribe": "",
-  "/1": "",
-  "/1/transitmix": "",
-  "/1/transitmix": "",
-  "/1/tech-survey": "",
-  "/1/etl": "",
-  "/1/desire-path": "",
-  "/1/people": "",
-  "/1/transparency": "",
-  "/1/forms": "",
-  "/1/redesign": "",
-  "/1/empower": "",
-  "/1/laugh": "https://www.google.com"
+  "/example": "https://github.com/civicquarterly/short-urls",
+  "/subscribe": "https://www.civicquarterly.com",
+  "/1/planning": "https://www.civicquarterly.com/article/planning-beyond-paper/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/tech-survey": "https://www.civicquarterly.com?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/ETL": "https://www.civicquarterly.com/article/etl-for-america/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/open-data": "https://www.civicquarterly.com/article/open-data-should-serve-more-than-good-ideas/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/people": "https://www.civicquarterly.com/article/people-not-data/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/transparency": "https://www.civicquarterly.com/article/privacy-for-us/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/redesign": "https://www.civicquarterly.com/article/respectfully-redesign?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/voting": "https://www.civicquarterly.com/article/save-election-day?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/forms": "https://www.civicquarterly.com/article/paper-cut-the-bleeding-edge-of-government-forms?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline"
 }
