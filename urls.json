@@ -1,13 +1,99 @@
 {
   "/example": "https://github.com/civicquarterly/short-urls",
   "/subscribe": "https://www.civicquarterly.com",
+
+  // Issue 1
+
+  "/1/am": "https://www.civicquarterly.com/article/paper-cut-the-bleeding-edge-of-government-forms",
+  "/1/forms": "https://www.civicquarterly.com/article/paper-cut-the-bleeding-edge-of-government-forms?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/tc": "https://www.civicquarterly.com/article/planning-beyond-paper/",
   "/1/planning": "https://www.civicquarterly.com/article/planning-beyond-paper/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
-  "/1/tech-survey": "https://www.civicquarterly.com?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
-  "/1/ETL": "https://www.civicquarterly.com/article/etl-for-america/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/ly": "https://civicquarterly.com/article/techstack-survey/",
+  "/1/tech-survey": "https://civicquarterly.com/article/techstack-survey/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/dg": "https://www.civicquarterly.com/article/etl-for-america/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+  "/1/etl": "https://www.civicquarterly.com/article/etl-for-america/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/at": "https://www.civicquarterly.com/article/open-data-should-serve-more-than-good-ideas/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
   "/1/open-data": "https://www.civicquarterly.com/article/open-data-should-serve-more-than-good-ideas/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/js": "https://www.civicquarterly.com/article/people-not-data/",
   "/1/people": "https://www.civicquarterly.com/article/people-not-data/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/ah": "https://www.civicquarterly.com/article/privacy-for-us/",
   "/1/transparency": "https://www.civicquarterly.com/article/privacy-for-us/?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/mm": "https://www.civicquarterly.com/article/respectfully-redesign",
   "/1/redesign": "https://www.civicquarterly.com/article/respectfully-redesign?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
+
+  "/1/dc": "https://www.civicquarterly.com/article/save-election-day",
   "/1/voting": "https://www.civicquarterly.com/article/save-election-day?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
-  "/1/forms": "https://www.civicquarterly.com/article/paper-cut-the-bleeding-edge-of-government-forms?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline"
+
+
+  // Issue 2
+
+  // Greg Bloom
+  "/2/gb":   "https://www.civicquarterly.com/",
+  "/2/gb-1": "http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language",
+  "/2/gb-2": "https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/",
+  "/2/gb-3": "http://activecitizen.tufts.edu/research/civic-studies/summer-institute/summer-institute-of-civic-studies-framing-statement/",
+
+  // Jessica Hewitt
+  "/2/jh":   "https://www.civicquarterly.com/",
+  "/2/jh-1": "http://www.eac.gov/about_the_eac/help_america_vote_act.aspx",
+  "/2/jh-2": "http://www.aiga.org/design-for-democracy-eac-reports/",
+  "/2/jh-3": "http://www.aiga.org/uploadedFiles/AIGA_DFD_EACCaseStudy_Jan2008-1.pdf",
+  "/2/jh-4": "http://www.aiga.org/design-for-democracy-eac-reports/",
+  "/2/jh-5": "http://www.aiga.org/ballot-design-top-10/",
+  "/2/jh-6": "http://civicdesigning.org/fieldguides/",
+  "/2/jh-7": "https://www.civicquarterly.com/article/respectfully-redesign",
+  "/2/jh-8": "http://publicpolicylab.org/2013/10/100-conversations-in-one-hour",
+  "/2/jh-9": "http://query.nytimes.com/gst/abstract.html?res=9D02E1D61139E633A25757C1A9649D946296D6CF",
+
+  // Chelsea Mauldin
+  "/2/cm":   "https://www.civicquarterly.com/",
+  "/2/cm-1": "http://nyc.pubcollab.org/designing-services-for-housing/",
+  "/2/cm-2": "http://nyc.pubcollab.org/files/P&C_DesigningServicesForHousing.pdf",
+
+  // Andrea Moed
+  "/2/am":   "https://www.civicquarterly.com/",
+  "/2/am-1": "http://archive.oreilly.com/pub/a/oreilly/tim/articles/architecture_of_participation.html",
+  "/2/am-2": "http://www.cutgroupbook.org/3-components/",
+  "/2/am-3": "http://www.civic-alliance.org/pdf/0920FinalLTCReport.pdf",
+  
+  // Diana Nucera
+  "/2/dn":   "https://www.civicquarterly.com/",
+  "/2/dn-1": "http://detroitdjc.org/",
+  "/2/dn-2": "http://detroitdjc.org/?page_id=9",
+  "/2/dn-3": "https://www.alliedmedia.org/news/2014/02/27/discotech-model-spreads-worldwide",
+  "/2/dn-4": "http://www.detroitfutureschools.org/toolkit/",
+  "/2/dn-5": "http://welcometocup.org/About", 
+
+  // Andrew Schrock
+  "/2/as":   "https://www.civicquarterly.com/",
+  "/2/as-1": "https://medium.com/@emilydshaw/civic-wants-civic-needs-civic-tech-d312d182ea57",
+  "/2/as-2": "http://leimertphonecompany.net/",
+  "/2/as-3": "https://www.civicquarterly.com/article/paper-cut-the-bleeding-edge-of-government-forms",
+  "/2/as-4": "http://www.opendatala.org/",
+  "/2/as-5": "https://medium.com/@abhinemani/two-kinds-of-emp-25706bf36df4",
+
+  // Erik Schwartz
+  "/2/es":   "https://www.civicquarterly.com/",
+  "/2/es-1": "https://www.youtube.com/watch?v=3bK9B8_0FDQ",
+  "/2/es-2": "https://medium.com/@emilydshaw/civic-wants-civic-needs-civic-tech-d312d182ea57",
+  "/2/es-3": "https://www.gov.uk/design-principles",
+  "/2/es-4": "https://www.gov.uk/government/publications/government-digital-inclusion-strategy",
+  "/2/es-5": "https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#annex-2-digital-inclusion-scale-for-individuals",
+  "/2/es-6": "https://gds.blog.gov.uk/2013/07/18/transforming-government-services/",
+
+  // Jacqueline Wallace
+  "/2/jw":   "https://www.civicquarterly.com/",
+  "/2/jw-1": "http://www.nescoe.com/uploads/Phase_III_Gas-Elec_Report_Sept._2013.pdf",
+  "/2/jw-1": "http://www.nescoe.com/uploads/Phase_III_Gas-Elec_Report_Sept._2013.pdf",
+  "/2/jw-2": "https://medium.com/civic-tech/better-listening-through-civic-technology-736c3af399ac",
+  "/2/jw-3": "http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language",
+  "/2/jw-4": "http://www.mobileterritoriallab.eu/"
+
 }
