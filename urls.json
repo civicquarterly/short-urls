@@ -1,3 +1,16 @@
 {
-  "/example": "https://github.com/civicquarterly/short-urls"
+  "/": "https://www.civicquarterly.com",
+  "/subscribe": "",
+  "/1": "",
+  "/1/transitmix": "",
+  "/1/transitmix": "",
+  "/1/tech-survey": "",
+  "/1/etl": "",
+  "/1/desire-path": "",
+  "/1/people": "",
+  "/1/transparency": "",
+  "/1/forms": "",
+  "/1/redesign": "",
+  "/1/empower": "",
+  "/1/laugh": "https://www.google.com"
 }
