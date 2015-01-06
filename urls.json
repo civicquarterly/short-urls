@@ -31,10 +31,15 @@
   "/1/voting": "https://www.civicquarterly.com/article/save-election-day?utm_source=cvq-me1&utm_medium=print&utm_campaign=readonline",
 
 
+  "/2/do":   "https://www.civicquarterly.com/",
+  "/2/do-1": "http://www.smartchicagocollaborative.org/",
+  "/2/do-2": "http://www.cutgroup.org/",
+  "/2/do-3": "http://www.cutgroupbook.org/",
+
   "/2/gb":   "https://www.civicquarterly.com/",
-  "/2/gb-1": "http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language",
-  "/2/gb-2": "https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/",
-  "/2/gb-3": "http://activecitizen.tufts.edu/research/civic-studies/summer-institute/summer-institute-of-civic-studies-framing-statement/",
+  "/2/gb-1": "http://activecitizen.tufts.edu/research/civic-studies/summer-institute/summer-institute-of-civic-studies-framing-statement/",
+  "/2/gb-2": "http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language",
+  "/2/gb-3": "https://www.mysociety.org/2014/09/08/civic-tech-has-won-the-name-game-but-what-does-it-mean/",
   "/2/gb-4": "http://chimera.labs.oreilly.com/books/1234000000774/ch02.html",
   "/2/gb-5": "https://medium.com/@elle_mccann/the-myth-of-everybody-85e4004be1f6",
   "/2/gb-6": "http://www.amazon.com/Governing-Commons-Evolution-Institutions-Collective/dp/0521405998",
@@ -53,7 +58,8 @@
   "/2/gb-19": "http://beyondtransparency.org/chapters/part-5/open-data-and-algorithmic-regulation/",
   "/2/gb-20": "https://www.openreferral.org/developing-visual-vocabulary-open-referral/",
   "/2/gb-21": "http://thenounproject.com",
-
+  "/2/gb-22": "http://valleywag.gawker.com/dropbox-douchebags-tried-to-kick-children-off-a-soccer-1644947724",
+  "/2/gb-23": "https://commotionwireless.net/docs/cck/planning/design-your-network-every-network-tells-story/",
 
   "/2/jh":   "https://www.civicquarterly.com/",
   "/2/jh-1": "http://www.eac.gov/about_the_eac/help_america_vote_act.aspx",
@@ -98,7 +104,6 @@
   "/2/es-6": "https://gds.blog.gov.uk/2013/07/18/transforming-government-services/",
 
   "/2/jw":   "https://www.civicquarterly.com/",
-  "/2/jw-1": "http://www.nescoe.com/uploads/Phase_III_Gas-Elec_Report_Sept._2013.pdf",
   "/2/jw-1": "http://www.nescoe.com/uploads/Phase_III_Gas-Elec_Report_Sept._2013.pdf",
   "/2/jw-2": "https://medium.com/civic-tech/better-listening-through-civic-technology-736c3af399ac",
   "/2/jw-3": "http://techpresident.com/news/25261/civic-tech-and-engagement-search-common-language",
