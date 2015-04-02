@@ -123,6 +123,41 @@
   "/2/cq-1": "https://medium.com/@elle_mccann/so-you-think-you-want-to-run-a-hackathon-think-again-f96cd7df246a",
   "/2/cq-2": "https://medium.com/@emilydshaw/civic-wants-civic-needs-civic-tech-d312d182ea57",
 
-  "/2/recommends":   "https://www.civicquarterly.com/article/civic-quarterly-recommends-winter-2014"
+  "/2/recommends":   "https://www.civicquarterly.com/article/civic-quarterly-recommends-winter-2014",
+
+
+  "/3/cq":   "https://www.civicquarterly.com/article/a-government-apart",
+
+  "/3/rb":   "https://www.civicquarterly.com/article/its-better-out-there",
+
+  "/3/ma":   "https://www.civicquarterly.com/article/reimagining-civic-computing",
+  "/3/ma-1": "http://www.wired.com/2014/03/potholes-big-data-crowdsourcing-way-better-government/",
+
+  "/3/jl":   "https://www.civicquarterly.com/article/city-shades-of-gray",
+  "/3/jl-1": "http://abcnews.go.com/US/nypd-officers-turn-back-de-blasio-cops-funeral/story?id=27851746",
+  "/3/jl-2": "http://amorebeautifulquestion.com/",
+  "/3/jl-3": "http://www.codeforamerica.org/blog/2015/01/26/doing-a-powerful-force-for-change/",
+  "/3/jl-4": "https://www.civicquarterly.com/article/two-way-streets",
+  "/3/jl-5": "http://rosenfeldmedia.com/books/mental-models/",
+
+  "/3/ls":   "https://www.civicquarterly.com/article/defragmenting-democracy",
+  "/3/ls-1": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances14/o0160-14.pdf",
+  "/3/ls-2": "http://opengovfoundation.org/",
+  "/3/ls-3": "https://github.com/statedecoded/statedecoded",
+  "/3/ls-4": "http://administrative.sanfranciscocode.org/8/",
+  "/3/ls-5": "https://sfgov.legistar.com/View.ashx?M=F&ID=2947695&GUID=5778E708-C56B-4527-A05B-E65C6C2304B3",
+  "/3/ls-6": "https://www.municode.com/library/ma/cambridge/codes/code_of_ordinances?nodeId=TIT1GEPR_CH1.04GEPR_1.04.080PUCOSU",
+  "/3/ls-7": "https://github.com/statedecoded/statedecoded",
+  "/3/ls-8": "http://docs.statedecoded.com/xml-format.html",
+  "/3/ls-9": "http://docs.statedecoded.com/installation.html",
+  "/3/ls-10": "http://docs.statedecoded.com/parser.html",
+  "/3/ls-11": "http://freelawfounders.org/",
+  "/3/ls-12": "http://freelawfounders.org/model-legislation/",
+  "/3/ls-13": "http://freelawfounders.org/join-the-flf/",
+
+  "/3/wq":   "https://www.civicquarterly.com/article/speaking-with-writing-for",
+  "/3/wq-1": "http://centerforcivicdesign.org/",
+  "/3/wq-2": "http://civicdesign.org/projects/how-voters-get-information/",
+  "/3/wq-3": "http://www.voterguide.sos.ca.gov/en/voter-info/voter-bill-of-rights.htm"
 
 }
