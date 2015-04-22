@@ -128,8 +128,6 @@
 
   "/3/cq":   "https://www.civicquarterly.com/article/a-government-apart",
 
-  "/3/rb":   "https://www.civicquarterly.com/article/its-better-out-there",
-
   "/3/ma":   "https://www.civicquarterly.com/article/reimagining-civic-computing",
   "/3/ma-1": "http://www.wired.com/2014/03/potholes-big-data-crowdsourcing-way-better-government/",
 
@@ -156,10 +154,38 @@
   "/3/ls-13": "http://freelawfounders.org/join-the-flf/",
   "/3/ls-14": "http://www.opengovfoundation.org/the-madison-project/", 
   "/3/ls-15": "http://www.opengovfoundation.org/setting-the-standards-for-open-government-data/", 
-  
+
+  "/3/rb":   "https://www.civicquarterly.com/article/its-better-out-there",
+  "/3/rb-1": "http://www.codeforamerica.org/specifications/trails/",
+  "/3/rb-2": "http://www.transitandtrails.org/",
+  "/3/rb-3": "https://www.youtube.com/watch?v=TdTT60UTO4s",
+  "/3/rb-4": "https://www.youtube.com/watch?v=RuUB6Bo2StA",
+  "/3/rb-5": "https://www.youtube.com/watch?v=3lMggDMWGrk",
+  "/3/rb-6": "http://www.tothetrails.com/",
+  "/3/rb-7": "http://www.outerspatial.com/opentrails/cheat",
+  "/3/rb-8": "http://www.opentraildata.org/course/",
+  "/3/rb-9": "http://open-trails.codeforamerica.org/",
+  "/3/rb-10": "http://www.opentraildata.org/course/TheOpenTrailsGuidebook.pdf",
+  "/3/rb-11": "http://www.outerspatial.com/",
+  "/3/rb-12": "http://www.outerspatial.com/organizations/golden-gate-national-parks-conservancy/opentrails/demo",
+  "/3/rb-13": "https://github.com/codeforboulder/trailsy",
+  "/3/rb-14": "https://github.com/trailheadlabs/OpenTrails-Mobile",
+  "/3/rb-15": "https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=930274246&mt=8",
+  "/3/rb-16": "https://play.google.com/store/apps/details?id=com.trailheadlabs.opentrails&hl=en",
+
   "/3/wq":   "https://www.civicquarterly.com/article/speaking-with-writing-for",
   "/3/wq-1": "http://centerforcivicdesign.org/",
-  "/3/wq-2": "http://civicdesign.org/projects/how-voters-get-information/",
-  "/3/wq-3": "http://www.voterguide.sos.ca.gov/en/voter-info/voter-bill-of-rights.htm"
+  "/3/wq-2": "http://civicdesign.org/projects/how-voters-get",
+  "/3/wq-3": "http://civicdesigning.org/fieldguides/",
+  "/3/wq-4": "https://www.sos.ca.gov/elections/voter-bill-of-rights/",
+  "/3/wq-5": "http://ww2.kqed.org/news/2015/02/11/california-2014-voter-turnout-was-even-worse-than-you-thought/", 
+  "/3/wq-6": "http://nces.ed.gov/naal/",
+  "/3/wq-7": "http://anywhereballot.com/",
+  "/3/wq-8": "https://www.usenix.org/conference/evtwote14/workshop-program/presentation/summers",
+  "/3/wq-9": "http://www.ncsl.org/research/elections-and-campaigns/absentee-and-early-voting.aspx",
+  "/3/wq-10": "https://cavotes.org/system/files/private/LWVCEF_Best_Practices_Manual_for_Official_Voter_Information_Guides_alt.pdf",
+  "/3/wq-11": "http://www.leginfo.ca.gov/cgi-bin/displaycode?section=elec&group=02001-03000&file=2300",
+  "/3/wq-12": "http://futureofcaelections.org/"
+
 
 }
