@@ -127,6 +127,8 @@
 
 
   "/3/cq":   "https://www.civicquarterly.com/article/a-government-apart",
+  "/3/cq-1": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431",
+  "/3/cq-2": "https://www.youtube.com/watch?v=oAU0c7ocZKs",
 
   "/3/ma":   "https://www.civicquarterly.com/article/reimagining-civic-computing",
   "/3/ma-1": "http://www.wired.com/2014/03/potholes-big-data-crowdsourcing-way-better-government/",
@@ -137,6 +139,7 @@
   "/3/jl-3": "http://www.codeforamerica.org/blog/2015/01/26/doing-a-powerful-force-for-change/",
   "/3/jl-4": "https://www.civicquarterly.com/article/two-way-streets",
   "/3/jl-5": "http://rosenfeldmedia.com/books/mental-models/",
+  "/3/jl-6": "http://www.fastcodesign.com/1672354/how-reframing-a-problem-unlocks-innovation",
 
   "/3/ls":   "https://www.civicquarterly.com/article/defragmenting-democracy",
   "/3/ls-1": "http://www.sfbos.org/ftp/uploadedfiles/bdsupvrs/ordinances14/o0160-14.pdf",
