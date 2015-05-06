@@ -126,9 +126,18 @@
   "/2/recommends":   "https://www.civicquarterly.com/article/civic-quarterly-recommends-winter-2014",
 
 
-  "/3/cq":   "https://www.civicquarterly.com/article/a-government-apart",
+  "/3/cq":   "https://www.civicquarterly.com/article/ghosts-in-the-machine",
   "/3/cq-1": "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1926431",
-  "/3/cq-2": "https://www.youtube.com/watch?v=oAU0c7ocZKs",
+  "/3/cq-2": "http://www.uie.com/articles/five_design_decision_styles/",
+  "/3/cq-3": "https://www.youtube.com/watch?v=oAU0c7ocZKs",
+
+  "/3/recommends":   "https://www.civicquarterly.com/article/civic-quarterly-recommends-spring-2014",
+  "/3/cq-3": "https://www.newschallenge.org/",
+  "/3/cq-4": "https://www.newamerica.org/oti/controlling-internet-infrastructure/",
+  "/3/cq-5": "http://longform.org/podcast",
+  "/3/cq-6": "http://civichall.org/civicist/the-last-mile-of-service-delivery/",
+  "/4/cq-7": "http://www.broken-links.com/2015/04/28/the-future-of-the-open-web/",
+
 
   "/3/ma":   "https://www.civicquarterly.com/article/reimagining-civic-computing",
   "/3/ma-1": "http://www.wired.com/2014/03/potholes-big-data-crowdsourcing-way-better-government/",
