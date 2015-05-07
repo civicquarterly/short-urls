@@ -36,6 +36,7 @@ http
       slug = slug.substr(0, slug.length - 1)
     }
 
+/*
     if (!slug) {
       // ultimately we might want some helpful
       // disambiguation page, since short urls
@@ -43,6 +44,7 @@ http
       // for now, just redirect to default
       redirect(res)
     }
+*/
 
     redirect(res, urls[slug])
     console.log(JSON.stringify({
