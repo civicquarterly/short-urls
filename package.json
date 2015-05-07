@@ -1,8 +1,11 @@
 {
   "name": "short-urls",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "url shortener for cvq.me",
   "main": "index.js",
+  "engines": {
+    "iojs": "1.6.x" 
+  },
   "scripts": {
     "start": "node .",
     "test": "node tests/test"
